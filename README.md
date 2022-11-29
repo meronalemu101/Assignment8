@@ -10,3 +10,7 @@ See file [Savecsv.py](https://github.com/meronalemu101/Assignment8/blob/e51c7879
 
 ### Save JSON Exercise
 See file [SaveJSON.py](https://github.com/meronalemu101/Assignment8/blob/e51c78797160d8e38e08ccc2edbee824fe5ab321/SaveJSON.py)
+
+### Read JSON Exercise
+See file [ReadJSON.py]
+(https://github.com/meronalemu101/Assignment8/blob/98a504e384892394b64a0f5296fa82aba225a8eb/ReadJSON.py)

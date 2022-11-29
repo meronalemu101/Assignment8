@@ -6,4 +6,7 @@ See file [PsychoPykeypress.py](https://github.com/meronalemu101/Assignment8/blob
 See file [Recordingdata.py](https://github.com/meronalemu101/Assignment8/blob/592e4b19e62e0be051e1a12546d2f8b7ec0631d4/Recordingdata.py)
 
 ### Save csv Exercise
-See file [Savingcsv.py](https://github.com/meronalemu101/Assignment8/blob/7b850a928315e87f8e1c8c67f895d462dee5329d/Savingcsv.py)
+See file [Savecsv.py](https://github.com/meronalemu101/Assignment8/blob/7b850a928315e87f8e1c8c67f895d462dee5329d/Savecsv.py)
+
+### Save JSON Exercise
+See file [SaveJSON.py](https://github.com/meronalemu101/Assignment8/blob/e51c78797160d8e38e08ccc2edbee824fe5ab321/SaveJSON.py)
